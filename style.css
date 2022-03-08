@@ -1,3 +1,33 @@
+.bg-darkbrown {
+    background-color: #b08968!important;
+}
+
 .bg-brown {
-    background-color: #9c6644!important;
+    background-color: #ddb892!important;
+}
+
+.btn-brown {
+    background-color: #ddb892!important;
+}
+
+.bg-lightbrown {
+    background-color: #ede0d4!important;
+}
+
+#hero-bg {
+    background-image: linear-gradient(rgba(0,0,0, .3), rgba(0,0,0, .3)), url('images/italian-food.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+#gallery-height {
+    height: 10vh;
+}
+
+#hero .container {
+    height: 50vh;
+}
+
+#about .container {
+    height: 50vh;
 }
